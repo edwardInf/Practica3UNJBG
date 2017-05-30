@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Carnet01</string>
+    <string name="boton1">Intent</string>
+    <string name="boton2">Sum1</string>
+    <string name="boton3">Sum2</string>
+    <string name="boton4">Sum3</string>
+    <string name="parametro1">Parametro 1</string>
+    <string name="parametro2">Parametro 2</string>
+    <string name="parametro3">Parametro 3</string>
+</resources>
